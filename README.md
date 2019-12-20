@@ -9,9 +9,9 @@ Guia rápido
 Os usuários do Maven podem adicionar a seguinte dependência ao pom.xml:
 
     <dependency>
-      <groupId>fr.dudie</groupId>
-      <artifactId>nominatim-api</artifactId>
-      <version>3.4</version>
+      <groupId>br.com.anteros</groupId>
+      <artifactId>Anteros-Nominatim</artifactId>
+      <version>1.0.0</version>
     </dependency>
 
 * Observe que é justo e razoável especificar um endereço de email ao usar a API do Nominatim *, consulte a [Política de uso do Nominatim] (https://operations.osmfoundation.org/policies/nominatim/) para obter mais informações.
